@@ -14,7 +14,7 @@
 
 ![github contribution grid snake](https://github.com/user-attachments/assets/9ba6ad09-901f-4ce7-b3e2-4442a6ee6cb4)
 ![MatheusPiresDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPires&show_icons=true&theme=radical&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPiresDEV&layout=compact&locale=pt-br)](https://github.com/MatheusPiresDEV/github-readme-stats)
 
 ## Tecnologias
 
