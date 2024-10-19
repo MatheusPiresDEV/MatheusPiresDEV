@@ -1,4 +1,3 @@
-
 ## Olá, eu me chamo Matheus Pires
 
 ## Contato ⬇
@@ -9,14 +8,15 @@
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNzmKYBVPWfOXqLQGIjn-TePCo3BVxifuRgfxIBO5Zzqih7g/viewform?usp=sf_link">
   <img src="https://github.com/user-attachments/assets/3de6bdf1-126a-46ca-87c7-cd3c420f6159" alt="Formulário" width="40">
 </a>
-</a>
 
+![github contribution grid snake](https://github.com/user-attachments/assets/9ba6ad09-901f-4ce7-b3e2-4442a6ee6cb4)
 
-![](https://github.com/user-attachments/assets/9ba6ad09-901f-4ce7-b3e2-4442a6ee6cb4)
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="MatheusPiresDEV GitHub stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" width="400">
+</div>
 
-
-
-## Tecnologias 
+## Tecnologias
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
