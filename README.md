@@ -9,8 +9,9 @@
   <img src="https://github.com/user-attachments/assets/3de6bdf1-126a-46ca-87c7-cd3c420f6159" alt="Formulário" width="40">
 </a>
 
-github-contribution-grid-snake.svg
+</a>
 
+![github contribution grid snake](https://github.com/MatheusPiresDEV/WellingtonCarneiroBarbosa/blob/main/github-contribution-grid-snake.svg)
 
 ## Tecnologias 
 
