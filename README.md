@@ -5,11 +5,13 @@
 <a href="https://www.linkedin.com/in/matheus-gustavo-da-silva-pires-70b195268/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="130">
 </a>
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNzmKYBVPWfOXqLQGIjn-TePCo3BVxifuRgfxIBO5Zzqih7g/viewform?usp=sf_link">
   <img src="https://github.com/user-attachments/assets/3de6bdf1-126a-46ca-87c7-cd3c420f6159" alt="Formulário" width="40">
 </a>
-<a href="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/32a1c245-8daf-426e-b80c-f389168a2b52" />
-  <img src="https://react-bay-one.vercel.app/" width="130">
+
+<a href="https://react-bay-one.vercel.app/">
+  <img src="https://github.com/user-attachments/assets/32a1c245-8daf-426e-b80c-f389168a2b52" alt="Meu Projeto React" width="130">
 </a>
 
 <!-- <a href="https://wa.me/5541988314797">
