@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://react-bay-one.vercel.app/">
-  <img src="https://github.com/user-attachments/assets/32a1c245-8daf-426e-b80c-f389168a2b52" alt="Meu Projeto React" width="90">
+  <img src="https://github.com/user-attachments/assets/32a1c245-8daf-426e-b80c-f389168a2b52" alt="Meu Projeto React" width="40">
 </a>
 
 <!-- <a href="https://wa.me/5541988314797">
